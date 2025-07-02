@@ -1,42 +1,66 @@
-ListadoPersonasApp
+# 👥 ListadoPersonasApp
 
-Aplicación de consola desarrollada en Java para gestionar un listado de personas. Este proyecto está pensado como ejercicio práctico para reforzar los conocimientos adquiridos en el ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma (CFGS DAM).
-Objetivos del proyecto
+Aplicación de consola en Java para gestionar un **listado de personas**, creada como práctica para afianzar conceptos de programación y estructuras de datos en Java.
 
-    Practicar la programación orientada a objetos (POO).
+---
 
-    Aplicar estructuras de datos como listas.
+## 📚 Descripción
 
-    Mejorar el manejo de la entrada y salida por consola.
+Esta app permite almacenar y mostrar un listado de personas con atributos como nombre, edad, ciudad, etc. Fue desarrollada para practicar fundamentos de Java (POO, listas, gestión de datos) durante el ciclo **CFGS DAM**.
 
-    Desarrollar habilidades con la persistencia de datos (si aplica: ficheros o bases de datos).
+---
 
-    Simular operaciones comunes en sistemas de gestión.
+## 🚀 Tecnologías Utilizadas
 
-Funcionalidades
+- Java 17+
+- Estructuras de datos (List, ArrayList)
+- Programación Orientada a Objetos (POO)
+- Interfaz de línea de comandos (CLI)
 
-    Agregar personas al listado.
+---
 
-    Eliminar o modificar personas existentes.
+## 🎯 Objetivos de Aprendizaje
 
-    Mostrar el listado completo de personas.
+- Implementar clases y objetos representando personas.
+- Usar colecciones (List / ArrayList) para guardar múltiples instancias.
+- Crear métodos para añadir, listar y buscar personas.
+- Practicar la validación de datos de entrada.
+- Desarrollar un menú interactivo en consola.
 
-    Buscar personas por distintos criterios (nombre, edad, etc.).
+---
 
-    Guardar o cargar datos desde un archivo (si está implementado).
+## 🧩 Funcionalidades Clave
 
-Ejecución
+- Añadir personas con datos básicos (nombre, edad, ciudad…).
+- Mostrar el listado completo de personas ingresadas.
+- Filtrar o buscar por nombre o ciudad (si lo implementaste).
+- Menú por consola con bucle hasta que se decide salir.
 
-Una vez abierto se mostrará un menú con las distintas operaciones disponibles.
-Ejemplo de flujo de uso:
+---
 
---- MENÚ PRINCIPAL ---
-1. Añadir persona
-2. Mostrar listado
-3. Buscar persona
-4. Eliminar persona
-5. Salir
+## 📸 Capturas (próximamente)
 
-Autor
+Añadiré capturas o ejemplos de ejecución en consola cuando los tenga listos.
 
-Desarrollado por @ecalar como parte del repaso de contenidos del CFGS DAM.
+---
+
+## 🧠 Sobre el Autor
+
+Parte de mi portfolio de desarrollador. Realizado durante el ciclo **CFGS DAM**, proyectos similares en mi perfil: [@ecalar](https://github.com/ecalar).
+
+---
+
+## ⚙️ Estado del Proyecto
+
+✅ Finalizado — abierto a futuras funciones (edición, borrado, búsqueda avanzada, etc.).
+
+---
+
+## 📩 Contacto
+
+¿Quieres saber más o colaborar? Escríbeme:
+
+- GitHub: [@ecalar](https://github.com/ecalar)
+- Email: enriquecalar@gmail.com
+
+---
